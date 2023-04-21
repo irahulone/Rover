@@ -1,0 +1,16 @@
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/launch/rover.launch.py
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/ament_index/resource_index/package_run_dependencies/robot_startup
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/ament_index/resource_index/parent_prefix_path/robot_startup
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/environment/ament_prefix_path.sh
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/environment/ament_prefix_path.dsv
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/environment/path.sh
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/environment/path.dsv
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/local_setup.bash
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/local_setup.sh
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/local_setup.zsh
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/local_setup.dsv
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/package.dsv
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/ament_index/resource_index/packages/robot_startup
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/cmake/robot_startupConfig.cmake
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/cmake/robot_startupConfig-version.cmake
+/home/vboxuser/rsl_ros2_ws/install/robot_startup/share/robot_startup/package.xml

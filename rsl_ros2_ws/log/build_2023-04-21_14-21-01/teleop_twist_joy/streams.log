@@ -1,0 +1,116 @@
+[0.468s] Invoking command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vboxuser/rsl_ros2_ws/src/teleop_twist_joy -DCMAKE_INSTALL_PREFIX=/home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy
+[0.662s] -- The C compiler identification is GNU 11.3.0
+[0.795s] -- The CXX compiler identification is GNU 11.3.0
+[0.812s] -- Detecting C compiler ABI info
+[0.895s] -- Detecting C compiler ABI info - done
+[0.902s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.903s] -- Detecting C compile features
+[0.904s] -- Detecting C compile features - done
+[0.910s] -- Detecting CXX compiler ABI info
+[1.016s] -- Detecting CXX compiler ABI info - done
+[1.025s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.025s] -- Detecting CXX compile features
+[1.026s] -- Detecting CXX compile features - done
+[1.037s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.250s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.430s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.558s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.572s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.597s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.625s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.667s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.870s] -- Found rclcpp: 16.0.3 (/opt/ros/humble/share/rclcpp/cmake)
+[2.016s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.021s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.169s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.208s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.259s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.279s] -- Looking for pthread.h
+[2.375s] -- Looking for pthread.h - found
+[2.376s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.456s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.457s] -- Found Threads: TRUE  
+[2.648s] -- Found rclcpp_components: 16.0.3 (/opt/ros/humble/share/rclcpp_components/cmake)
+[2.749s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[2.862s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
+[2.933s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
+[2.934s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY
+[3.018s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success
+[3.018s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR
+[3.155s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success
+[3.161s] -- Found ament_lint_auto: 0.12.5 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.310s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.352s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.6", minimum required is "3.6") 
+[3.366s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.6", minimum required is "3.5") 
+[3.366s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.366s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.366s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.394s] -- Found PythonExtra: .so  
+[3.416s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.416s] -- Configured cppcheck include dirs: /home/vboxuser/rsl_ros2_ws/src/teleop_twist_joy/include
+[3.416s] -- Configured cppcheck exclude dirs and/or files: 
+[3.416s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.417s] -- Added test 'lint_cmake' to check CMake code style
+[3.418s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.419s] -- Added test 'xmllint' to check XML markup files
+[3.425s] [33mCMake Warning (dev) at CMakeLists.txt:22 (add_library):
+[3.426s]   Policy CMP0115 is not set: Source file extensions must be explicit.  Run
+[3.426s]   "cmake --help-policy CMP0115" for policy details.  Use the cmake_policy
+[3.426s]   command to set the policy and suppress this warning.
+[3.426s] 
+[3.426s]   File:
+[3.426s] 
+[3.426s]     /home/vboxuser/rsl_ros2_ws/src/teleop_twist_joy/src/teleop_twist_joy.cpp
+[3.426s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[3.426s] [0m
+[3.426s] -- Configuring done
+[3.439s] -- Generating done
+[3.441s] -- Build files have been written to: /home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy
+[3.455s] Invoked command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vboxuser/rsl_ros2_ws/src/teleop_twist_joy -DCMAKE_INSTALL_PREFIX=/home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy
+[3.457s] Invoking command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy -- -j6 -l6
+[3.514s] [ 25%] [32mBuilding CXX object CMakeFiles/teleop_twist_joy.dir/src/teleop_twist_joy.cpp.o[0m
+[27.402s] [ 50%] [32m[1mLinking CXX shared library libteleop_twist_joy.so[0m
+[29.669s] [ 50%] Built target teleop_twist_joy
+[29.723s] [ 75%] [32mBuilding CXX object CMakeFiles/teleop_twist_joy_node.dir/src/teleop_node.cpp.o[0m
+[33.953s] [100%] [32m[1mLinking CXX executable teleop_node[0m
+[34.283s] [100%] Built target teleop_twist_joy_node
+[34.300s] Invoked command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy -- -j6 -l6
+[34.333s] Invoking command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy
+[34.344s] -- Install configuration: ""
+[34.344s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/lib/libteleop_twist_joy.so
+[34.355s] -- Set runtime path of "/home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/lib/libteleop_twist_joy.so" to ""
+[34.355s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/lib/teleop_twist_joy/teleop_node
+[34.356s] -- Set runtime path of "/home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/lib/teleop_twist_joy/teleop_node" to ""
+[34.356s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/include
+[34.356s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/include/teleop_twist_joy
+[34.356s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/include/teleop_twist_joy/teleop_twist_joy.hpp
+[34.356s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/include/teleop_twist_joy/teleop_twist_joy_export.h
+[34.356s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/launch
+[34.356s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/launch/teleop-launch.py
+[34.357s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/config
+[34.357s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/config/xbox.config.yaml
+[34.357s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/config/atk3.config.yaml
+[34.357s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/config/ps3-holonomic.config.yaml
+[34.357s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/config/xd3.config.yaml
+[34.357s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/config/ps3.config.yaml
+[34.357s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/environment/library_path.sh
+[34.357s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/environment/library_path.dsv
+[34.358s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/ament_index/resource_index/package_run_dependencies/teleop_twist_joy
+[34.358s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/ament_index/resource_index/parent_prefix_path/teleop_twist_joy
+[34.358s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/environment/ament_prefix_path.sh
+[34.358s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/environment/ament_prefix_path.dsv
+[34.358s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/environment/path.sh
+[34.358s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/environment/path.dsv
+[34.358s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.bash
+[34.359s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.sh
+[34.359s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.zsh
+[34.359s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.dsv
+[34.359s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/package.dsv
+[34.359s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/ament_index/resource_index/packages/teleop_twist_joy
+[34.359s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/ament_index/resource_index/rclcpp_components/teleop_twist_joy
+[34.360s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/cmake/ament_cmake_export_include_directories-extras.cmake
+[34.360s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/cmake/ament_cmake_export_libraries-extras.cmake
+[34.360s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/cmake/teleop_twist_joyConfig.cmake
+[34.360s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/cmake/teleop_twist_joyConfig-version.cmake
+[34.360s] -- Installing: /home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy/share/teleop_twist_joy/package.xml
+[34.367s] Invoked command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy
