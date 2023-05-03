@@ -1,0 +1,41 @@
+[0.934s] Invoking command in '/home/vboxuser/rover_ws_ri/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/rover_ws_ri/build/teleop_twist_joy -- -j6 -l6
+[1.493s] [ 50%] Built target teleop_twist_joy
+[1.594s] [100%] Built target teleop_twist_joy_node
+[1.654s] Invoked command in '/home/vboxuser/rover_ws_ri/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/rover_ws_ri/build/teleop_twist_joy -- -j6 -l6
+[1.760s] Invoking command in '/home/vboxuser/rover_ws_ri/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/rover_ws_ri/build/teleop_twist_joy
+[1.794s] -- Install configuration: ""
+[1.798s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/lib/libteleop_twist_joy.so
+[1.800s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/lib/teleop_twist_joy/teleop_node
+[1.801s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/include
+[1.801s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/include/teleop_twist_joy
+[1.802s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/include/teleop_twist_joy/teleop_twist_joy.hpp
+[1.802s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/include/teleop_twist_joy/teleop_twist_joy_export.h
+[1.803s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/launch
+[1.805s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/launch/teleop-launch.py
+[1.805s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/config
+[1.806s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/config/xbox.config.yaml
+[1.806s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/config/atk3.config.yaml
+[1.806s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/config/ps3-holonomic.config.yaml
+[1.807s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/config/xd3.config.yaml
+[1.807s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/config/ps3.config.yaml
+[1.807s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/environment/library_path.sh
+[1.808s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/environment/library_path.dsv
+[1.809s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/ament_index/resource_index/package_run_dependencies/teleop_twist_joy
+[1.809s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/ament_index/resource_index/parent_prefix_path/teleop_twist_joy
+[1.809s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/environment/ament_prefix_path.sh
+[1.810s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/environment/ament_prefix_path.dsv
+[1.810s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/environment/path.sh
+[1.810s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/environment/path.dsv
+[1.810s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.bash
+[1.811s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.sh
+[1.811s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.zsh
+[1.811s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/local_setup.dsv
+[1.811s] -- Installing: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/package.dsv
+[1.812s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/ament_index/resource_index/packages/teleop_twist_joy
+[1.813s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/ament_index/resource_index/rclcpp_components/teleop_twist_joy
+[1.814s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.814s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/cmake/ament_cmake_export_libraries-extras.cmake
+[1.815s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/cmake/teleop_twist_joyConfig.cmake
+[1.816s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/cmake/teleop_twist_joyConfig-version.cmake
+[1.817s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/teleop_twist_joy/share/teleop_twist_joy/package.xml
+[1.827s] Invoked command in '/home/vboxuser/rover_ws_ri/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/rover_ws_ri/build/teleop_twist_joy

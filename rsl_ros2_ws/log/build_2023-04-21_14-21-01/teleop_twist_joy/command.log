@@ -1,6 +1,0 @@
-Invoking command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vboxuser/rsl_ros2_ws/src/teleop_twist_joy -DCMAKE_INSTALL_PREFIX=/home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy
-Invoked command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vboxuser/rsl_ros2_ws/src/teleop_twist_joy -DCMAKE_INSTALL_PREFIX=/home/vboxuser/rsl_ros2_ws/install/teleop_twist_joy
-Invoking command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy -- -j6 -l6
-Invoked command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy -- -j6 -l6
-Invoking command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy
-Invoked command in '/home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/rsl_ros2_ws/build/teleop_twist_joy

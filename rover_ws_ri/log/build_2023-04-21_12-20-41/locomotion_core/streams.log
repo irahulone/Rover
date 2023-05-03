@@ -1,0 +1,25 @@
+[2.755s] Invoking command in '/home/vboxuser/rover_ws_ri/src/locomotion_core': PYTHONPATH=/home/vboxuser/rover_ws_ri/build/locomotion_core/prefix_override:/home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/locomotion_core build --build-base /home/vboxuser/rover_ws_ri/build/locomotion_core/build install --record /home/vboxuser/rover_ws_ri/build/locomotion_core/install.log --single-version-externally-managed
+[3.728s] running egg_info
+[3.728s] writing ../../build/locomotion_core/locomotion_core.egg-info/PKG-INFO
+[3.730s] writing dependency_links to ../../build/locomotion_core/locomotion_core.egg-info/dependency_links.txt
+[3.730s] writing entry points to ../../build/locomotion_core/locomotion_core.egg-info/entry_points.txt
+[3.731s] writing requirements to ../../build/locomotion_core/locomotion_core.egg-info/requires.txt
+[3.731s] writing top-level names to ../../build/locomotion_core/locomotion_core.egg-info/top_level.txt
+[3.747s] reading manifest file '../../build/locomotion_core/locomotion_core.egg-info/SOURCES.txt'
+[3.752s] writing manifest file '../../build/locomotion_core/locomotion_core.egg-info/SOURCES.txt'
+[3.752s] running build
+[3.752s] running build_py
+[3.754s] copying locomotion_core/drive_selector.py -> /home/vboxuser/rover_ws_ri/build/locomotion_core/build/lib/locomotion_core
+[3.755s] running install
+[3.755s] running install_lib
+[3.759s] copying /home/vboxuser/rover_ws_ri/build/locomotion_core/build/lib/locomotion_core/drive_selector.py -> /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages/locomotion_core
+[3.763s] byte-compiling /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages/locomotion_core/drive_selector.py to drive_selector.cpython-310.pyc
+[3.768s] running install_data
+[3.774s] running install_egg_info
+[3.780s] removing '/home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages/locomotion_core-0.0.0-py3.10.egg-info' (and everything under it)
+[3.780s] Copying ../../build/locomotion_core/locomotion_core.egg-info to /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages/locomotion_core-0.0.0-py3.10.egg-info
+[3.787s] running install_scripts
+[3.883s] Installing driver script to /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/locomotion_core
+[3.886s] Installing du_commander script to /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/locomotion_core
+[3.886s] writing list of installed files to '/home/vboxuser/rover_ws_ri/build/locomotion_core/install.log'
+[4.053s] Invoked command in '/home/vboxuser/rover_ws_ri/src/locomotion_core' returned '0': PYTHONPATH=/home/vboxuser/rover_ws_ri/build/locomotion_core/prefix_override:/home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/locomotion_core build --build-base /home/vboxuser/rover_ws_ri/build/locomotion_core/build install --record /home/vboxuser/rover_ws_ri/build/locomotion_core/install.log --single-version-externally-managed

@@ -1,0 +1,7 @@
+[console_scripts]
+cmd_roboteq = locomotion_core.cmd_roboteq:main
+cmd_roboteq2 = locomotion_core.cmd_roboteq2:main
+movebase_kinematics = locomotion_core.movebase_kinematics:main
+rover_enable = locomotion_core.rover_enable:main
+rover_state_controller = locomotion_core.rover_state_controller:main
+

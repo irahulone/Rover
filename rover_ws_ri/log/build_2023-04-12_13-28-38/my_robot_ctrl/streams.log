@@ -1,0 +1,37 @@
+[1.163s] Invoking command in '/home/vboxuser/rover_ws_ri/src/my_robot_ctrl': PYTHONPATH=/home/vboxuser/rover_ws_ri/build/my_robot_ctrl/prefix_override:/home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_ctrl build --build-base /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build install --record /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/install.log --single-version-externally-managed
+[1.497s] running egg_info
+[1.498s] creating ../../build/my_robot_ctrl/my_robot_ctrl.egg-info
+[1.498s] writing ../../build/my_robot_ctrl/my_robot_ctrl.egg-info/PKG-INFO
+[1.498s] writing dependency_links to ../../build/my_robot_ctrl/my_robot_ctrl.egg-info/dependency_links.txt
+[1.498s] writing entry points to ../../build/my_robot_ctrl/my_robot_ctrl.egg-info/entry_points.txt
+[1.499s] writing requirements to ../../build/my_robot_ctrl/my_robot_ctrl.egg-info/requires.txt
+[1.499s] writing top-level names to ../../build/my_robot_ctrl/my_robot_ctrl.egg-info/top_level.txt
+[1.499s] writing manifest file '../../build/my_robot_ctrl/my_robot_ctrl.egg-info/SOURCES.txt'
+[1.501s] reading manifest file '../../build/my_robot_ctrl/my_robot_ctrl.egg-info/SOURCES.txt'
+[1.502s] writing manifest file '../../build/my_robot_ctrl/my_robot_ctrl.egg-info/SOURCES.txt'
+[1.502s] running build
+[1.503s] running build_py
+[1.503s] creating /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build
+[1.503s] creating /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build/lib
+[1.503s] creating /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build/lib/my_robot_ctrl
+[1.503s] copying my_robot_ctrl/pynode.py -> /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build/lib/my_robot_ctrl
+[1.503s] copying my_robot_ctrl/__init__.py -> /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build/lib/my_robot_ctrl
+[1.504s] running install
+[1.504s] running install_lib
+[1.505s] creating /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages/my_robot_ctrl
+[1.505s] copying /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build/lib/my_robot_ctrl/pynode.py -> /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages/my_robot_ctrl
+[1.505s] copying /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build/lib/my_robot_ctrl/__init__.py -> /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages/my_robot_ctrl
+[1.506s] byte-compiling /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages/my_robot_ctrl/pynode.py to pynode.cpython-310.pyc
+[1.506s] byte-compiling /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages/my_robot_ctrl/__init__.py to __init__.cpython-310.pyc
+[1.506s] running install_data
+[1.507s] creating /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/share/ament_index
+[1.508s] creating /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/share/ament_index/resource_index
+[1.508s] creating /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/share/ament_index/resource_index/packages
+[1.508s] copying resource/my_robot_ctrl -> /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/share/ament_index/resource_index/packages
+[1.508s] copying package.xml -> /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/share/my_robot_ctrl
+[1.508s] running install_egg_info
+[1.510s] Copying ../../build/my_robot_ctrl/my_robot_ctrl.egg-info to /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages/my_robot_ctrl-0.0.0-py3.10.egg-info
+[1.511s] running install_scripts
+[1.537s] Installing mynode script to /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/my_robot_ctrl
+[1.538s] writing list of installed files to '/home/vboxuser/rover_ws_ri/build/my_robot_ctrl/install.log'
+[1.574s] Invoked command in '/home/vboxuser/rover_ws_ri/src/my_robot_ctrl' returned '0': PYTHONPATH=/home/vboxuser/rover_ws_ri/build/my_robot_ctrl/prefix_override:/home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_ctrl build --build-base /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build install --record /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/install.log --single-version-externally-managed

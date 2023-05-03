@@ -1,0 +1,21 @@
+[1.324s] Invoking command in '/home/vboxuser/rover_ws_ri/src/my_robot_ctrl': PYTHONPATH=/home/vboxuser/rover_ws_ri/build/my_robot_ctrl/prefix_override:/home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_ctrl build --build-base /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build install --record /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/install.log --single-version-externally-managed
+[1.624s] running egg_info
+[1.625s] writing ../../build/my_robot_ctrl/my_robot_ctrl.egg-info/PKG-INFO
+[1.625s] writing dependency_links to ../../build/my_robot_ctrl/my_robot_ctrl.egg-info/dependency_links.txt
+[1.626s] writing entry points to ../../build/my_robot_ctrl/my_robot_ctrl.egg-info/entry_points.txt
+[1.626s] writing requirements to ../../build/my_robot_ctrl/my_robot_ctrl.egg-info/requires.txt
+[1.626s] writing top-level names to ../../build/my_robot_ctrl/my_robot_ctrl.egg-info/top_level.txt
+[1.629s] reading manifest file '../../build/my_robot_ctrl/my_robot_ctrl.egg-info/SOURCES.txt'
+[1.630s] writing manifest file '../../build/my_robot_ctrl/my_robot_ctrl.egg-info/SOURCES.txt'
+[1.630s] running build
+[1.630s] running build_py
+[1.630s] running install
+[1.631s] running install_lib
+[1.633s] running install_data
+[1.634s] running install_egg_info
+[1.637s] removing '/home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages/my_robot_ctrl-0.0.0-py3.10.egg-info' (and everything under it)
+[1.637s] Copying ../../build/my_robot_ctrl/my_robot_ctrl.egg-info to /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages/my_robot_ctrl-0.0.0-py3.10.egg-info
+[1.639s] running install_scripts
+[1.666s] Installing mynode script to /home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/my_robot_ctrl
+[1.666s] writing list of installed files to '/home/vboxuser/rover_ws_ri/build/my_robot_ctrl/install.log'
+[1.700s] Invoked command in '/home/vboxuser/rover_ws_ri/src/my_robot_ctrl' returned '0': PYTHONPATH=/home/vboxuser/rover_ws_ri/build/my_robot_ctrl/prefix_override:/home/vboxuser/rover_ws_ri/install/my_robot_ctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_ctrl build --build-base /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/build install --record /home/vboxuser/rover_ws_ri/build/my_robot_ctrl/install.log --single-version-externally-managed

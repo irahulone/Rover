@@ -1,0 +1,34 @@
+[1.127s] Invoking command in '/home/vboxuser/rover_ws_ri/src/locomotion_core': PYTHONPATH=/home/vboxuser/rover_ws_ri/build/locomotion_core/prefix_override:/home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/locomotion_core build --build-base /home/vboxuser/rover_ws_ri/build/locomotion_core/build install --record /home/vboxuser/rover_ws_ri/build/locomotion_core/install.log --single-version-externally-managed
+[1.429s] running egg_info
+[1.430s] writing ../../build/locomotion_core/locomotion_core.egg-info/PKG-INFO
+[1.431s] writing dependency_links to ../../build/locomotion_core/locomotion_core.egg-info/dependency_links.txt
+[1.432s] writing entry points to ../../build/locomotion_core/locomotion_core.egg-info/entry_points.txt
+[1.432s] writing requirements to ../../build/locomotion_core/locomotion_core.egg-info/requires.txt
+[1.432s] writing top-level names to ../../build/locomotion_core/locomotion_core.egg-info/top_level.txt
+[1.433s] reading manifest file '../../build/locomotion_core/locomotion_core.egg-info/SOURCES.txt'
+[1.434s] writing manifest file '../../build/locomotion_core/locomotion_core.egg-info/SOURCES.txt'
+[1.434s] running build
+[1.434s] running build_py
+[1.435s] copying locomotion_core/rover_state_controller.py -> /home/vboxuser/rover_ws_ri/build/locomotion_core/build/lib/locomotion_core
+[1.435s] running install
+[1.435s] running install_lib
+[1.436s] copying /home/vboxuser/rover_ws_ri/build/locomotion_core/build/lib/locomotion_core/rover_state_controller.py -> /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages/locomotion_core
+[1.436s] byte-compiling /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages/locomotion_core/rover_state_controller.py to rover_state_controller.cpython-310.pyc
+[1.437s]   File "/home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages/locomotion_core/rover_state_controller.py", line 73
+[1.437s]     global u_lx, u_az, joy_lx, joy_az, ply_lx, ply_az
+[1.437s]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[1.437s] SyntaxError: name 'u_lx' is assigned to before global declaration
+[1.437s] 
+[1.438s] running install_data
+[1.438s] running install_egg_info
+[1.439s] removing '/home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages/locomotion_core-0.0.0-py3.10.egg-info' (and everything under it)
+[1.439s] Copying ../../build/locomotion_core/locomotion_core.egg-info to /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages/locomotion_core-0.0.0-py3.10.egg-info
+[1.440s] running install_scripts
+[1.462s] Installing cmd_roboteq script to /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/locomotion_core
+[1.462s] Installing cmd_roboteq2 script to /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/locomotion_core
+[1.463s] Installing drive_selector script to /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/locomotion_core
+[1.463s] Installing du_enable script to /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/locomotion_core
+[1.463s] Installing movebase_kinematics script to /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/locomotion_core
+[1.463s] Installing rover_state_controller script to /home/vboxuser/rover_ws_ri/install/locomotion_core/lib/locomotion_core
+[1.463s] writing list of installed files to '/home/vboxuser/rover_ws_ri/build/locomotion_core/install.log'
+[1.501s] Invoked command in '/home/vboxuser/rover_ws_ri/src/locomotion_core' returned '0': PYTHONPATH=/home/vboxuser/rover_ws_ri/build/locomotion_core/prefix_override:/home/vboxuser/rover_ws_ri/install/locomotion_core/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/locomotion_core build --build-base /home/vboxuser/rover_ws_ri/build/locomotion_core/build install --record /home/vboxuser/rover_ws_ri/build/locomotion_core/install.log --single-version-externally-managed

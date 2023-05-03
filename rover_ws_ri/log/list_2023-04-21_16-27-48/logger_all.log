@@ -1,0 +1,76 @@
+[1.265s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/vboxuser/rover_ws_ri']
+[1.266s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/vboxuser/rover_ws_ri'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7f8ecb68b490>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x7f8ecb7e1480>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x7f8ecb7e1480>>)
+[1.403s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[1.403s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[1.403s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[1.403s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[1.403s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[1.403s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/vboxuser/rover_ws_ri'
+[1.404s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extensions ['ignore', 'ignore_ament_install']
+[1.404s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extension 'ignore'
+[1.404s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extension 'ignore_ament_install'
+[1.404s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extensions ['colcon_pkg']
+[1.404s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extension 'colcon_pkg'
+[1.404s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extensions ['colcon_meta']
+[1.404s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extension 'colcon_meta'
+[1.404s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extensions ['ros']
+[1.404s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extension 'ros'
+[1.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extensions ['cmake', 'python']
+[1.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extension 'cmake'
+[1.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extension 'python'
+[1.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extensions ['python_setup_py']
+[1.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri) by extension 'python_setup_py'
+[1.426s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/build) by extensions ['ignore', 'ignore_ament_install']
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/build) by extension 'ignore'
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/build) ignored
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/install) by extensions ['ignore', 'ignore_ament_install']
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/install) by extension 'ignore'
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/install) ignored
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/log) by extensions ['ignore', 'ignore_ament_install']
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/log) by extension 'ignore'
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/log) ignored
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extensions ['ignore', 'ignore_ament_install']
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extension 'ignore'
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extension 'ignore_ament_install'
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extensions ['colcon_pkg']
+[1.427s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extension 'colcon_pkg'
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extensions ['colcon_meta']
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extension 'colcon_meta'
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extensions ['ros']
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extension 'ros'
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extensions ['cmake', 'python']
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extension 'cmake'
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extension 'python'
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extensions ['python_setup_py']
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src) by extension 'python_setup_py'
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/locomotion_core) by extensions ['ignore', 'ignore_ament_install']
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/locomotion_core) by extension 'ignore'
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/locomotion_core) by extension 'ignore_ament_install'
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/locomotion_core) by extensions ['colcon_pkg']
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/locomotion_core) by extension 'colcon_pkg'
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/locomotion_core) by extensions ['colcon_meta']
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/locomotion_core) by extension 'colcon_meta'
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/locomotion_core) by extensions ['ros']
+[1.428s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/locomotion_core) by extension 'ros'
+[1.431s] DEBUG:colcon.colcon_core.package_identification:Package '/home/vboxuser/rover_ws_ri/src/locomotion_core' with type 'ros.ament_python' and name 'locomotion_core'
+[1.432s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/robot_start) by extensions ['ignore', 'ignore_ament_install']
+[1.432s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/robot_start) by extension 'ignore'
+[1.432s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/robot_start) by extension 'ignore_ament_install'
+[1.432s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/robot_start) by extensions ['colcon_pkg']
+[1.432s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/robot_start) by extension 'colcon_pkg'
+[1.432s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/robot_start) by extensions ['colcon_meta']
+[1.432s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/robot_start) by extension 'colcon_meta'
+[1.432s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/robot_start) by extensions ['ros']
+[1.432s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/robot_start) by extension 'ros'
+[1.434s] DEBUG:colcon.colcon_core.package_identification:Package '/home/vboxuser/rover_ws_ri/src/robot_start' with type 'ros.ament_cmake' and name 'robot_start'
+[1.435s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/teleop_twist_joy) by extensions ['ignore', 'ignore_ament_install']
+[1.435s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/teleop_twist_joy) by extension 'ignore'
+[1.435s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/teleop_twist_joy) by extension 'ignore_ament_install'
+[1.436s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/teleop_twist_joy) by extensions ['colcon_pkg']
+[1.436s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/teleop_twist_joy) by extension 'colcon_pkg'
+[1.436s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/teleop_twist_joy) by extensions ['colcon_meta']
+[1.436s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/teleop_twist_joy) by extension 'colcon_meta'
+[1.436s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/teleop_twist_joy) by extensions ['ros']
+[1.436s] Level 1:colcon.colcon_core.package_identification:_identify(/home/vboxuser/rover_ws_ri/src/teleop_twist_joy) by extension 'ros'
+[1.438s] DEBUG:colcon.colcon_core.package_identification:Package '/home/vboxuser/rover_ws_ri/src/teleop_twist_joy' with type 'ros.ament_cmake' and name 'teleop_twist_joy'
+[1.438s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

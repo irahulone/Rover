@@ -1,0 +1,22 @@
+[0.426s] Invoking command in '/home/vboxuser/rover_ws_ri/build/robot_startup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/rover_ws_ri/install/my_robot_ctrl:/home/vboxuser/rover_ws_ri/install/locomotion_core:/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/rover_ws_ri/build/robot_startup -- -j6 -l6
+[0.478s] Invoked command in '/home/vboxuser/rover_ws_ri/build/robot_startup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/rover_ws_ri/install/my_robot_ctrl:/home/vboxuser/rover_ws_ri/install/locomotion_core:/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/rover_ws_ri/build/robot_startup -- -j6 -l6
+[0.522s] Invoking command in '/home/vboxuser/rover_ws_ri/build/robot_startup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/rover_ws_ri/install/my_robot_ctrl:/home/vboxuser/rover_ws_ri/install/locomotion_core:/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/rover_ws_ri/build/robot_startup
+[0.544s] -- Install configuration: ""
+[0.545s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/launch
+[0.545s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/launch/rover.launch.py
+[0.546s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/ament_index/resource_index/package_run_dependencies/robot_startup
+[0.547s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/ament_index/resource_index/parent_prefix_path/robot_startup
+[0.547s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/environment/ament_prefix_path.sh
+[0.547s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/environment/ament_prefix_path.dsv
+[0.548s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/environment/path.sh
+[0.548s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/environment/path.dsv
+[0.548s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/local_setup.bash
+[0.549s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/local_setup.sh
+[0.549s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/local_setup.zsh
+[0.550s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/local_setup.dsv
+[0.550s] -- Installing: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/package.dsv
+[0.551s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/ament_index/resource_index/packages/robot_startup
+[0.556s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/cmake/robot_startupConfig.cmake
+[0.556s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/cmake/robot_startupConfig-version.cmake
+[0.557s] -- Up-to-date: /home/vboxuser/rover_ws_ri/install/robot_startup/share/robot_startup/package.xml
+[0.566s] Invoked command in '/home/vboxuser/rover_ws_ri/build/robot_startup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vboxuser/rover_ws_ri/install/my_robot_ctrl:/home/vboxuser/rover_ws_ri/install/locomotion_core:/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/rover_ws_ri/build/robot_startup
